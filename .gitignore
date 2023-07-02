@@ -5,3 +5,4 @@ test-cases/
 out/
 .idea
 *.iml
+*.jar
